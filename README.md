@@ -1,6 +1,7 @@
 Hey, how you doing? 😄
 
-> Who am I? 🧐\\
+> Who am I? 🧐
+
 I'm Natanael Oliveira, or just Natan!
 Currently I'm doing my master's degree in Astronomy/Astrophysics, working on the dark matter distribution in Milky Way analog galaxies.
 
