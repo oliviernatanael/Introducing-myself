@@ -16,3 +16,6 @@ My areas of interest are Extragalactic Astrophysics and Cosmology, focusing espe
 Here, on GitHub, you can find some of the codes I've made. You can find codes about data cube reduction and analysis, extraction of galaxy rotation curves from the flux and velocity maps and stuff.
 
 Feel free to contact me via email: natanael18@ov.ufrj.br, or on social media: @oliviernatanael.
+
+Best,
+Natan :)
